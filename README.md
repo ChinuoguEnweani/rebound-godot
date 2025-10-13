@@ -60,7 +60,7 @@ These are the sound effects used in the game:
 | Wall Bounce Sound | [`108737__branrainey__boing.wav`](audio/108737__branrainey__boing.wav) | Wall bounce/collision sound |
 | Paddle Hit Sound | [`269718__michorvath__ping-pong-ball-hit.wav`](audio/269718__michorvath__ping-pong-ball-hit.wav) | Played when the ball hits a paddle |
 | Score Sound | [`514160__edwardszakal__score-beep.mp3`](audio/514160__edwardszakal__score-beep.mp3) | Played when a player scores |
-| Background music | [`Jesús Lastra - Heatstroke.mp3`](audio/Jesús Lastra - Heatstroke.mp3) | This music is played in the background |
+| Background music | [`Jesús Lastra - Heatstroke.mp3`](audio/Jesús Lastra - Heatstroke.mp3)  | This music is played in the background |
 
 ## 🎮 Author & License
 
