@@ -24,7 +24,7 @@ The core objectives I set out to implement:
 
 - Add sound effects (on paddle hit, wall bounce, scoring)  
 - Possibly menu, reset, or simple UI polish  
-- (Optional) Basic AI opponent  
+- Basic AI opponent  
 
 ---
 
@@ -34,8 +34,6 @@ The core objectives I set out to implement:
 |--------|------------------|
 | Left   | W / S (or Up / Down) |
 | Right  | Arrow Up / Arrow Down |
-
-*(You can adjust this depending on what you used in your project.)*
 
 ---
 
