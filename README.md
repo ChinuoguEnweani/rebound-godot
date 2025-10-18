@@ -6,7 +6,7 @@
 A simple Pong clone made in **Godot 4**, as part of the **20 Games Challenge**.  
 Inspired by the description and goals on the 20 Games Challenge website:
 
-> “Pong was the first widely successful arcade game … Essentially, Pong was a specialized computer designed to bounce a ball between two paddles and keep score.” :contentReference[oaicite:0]{index=0}
+> “Pong was the first widely successful arcade game … Essentially, Pong was a specialized computer designed to bounce a ball between two paddles and keep score.”
 
 ---
 
