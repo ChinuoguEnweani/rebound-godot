@@ -23,7 +23,7 @@ The core objectives I set out to implement:
 ### Stretch / Bonus Features
 
 - Add sound effects (on paddle hit, wall bounce, scoring)  
-- Possibly menu, reset, or simple UI polish  
+- Menu, reset, or simple UI polish  
 - Basic AI opponent  
 
 ---
