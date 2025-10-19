@@ -2,7 +2,7 @@
 
 🕹️ Play now  
 
-<iframe frameborder="0" src="https://itch.io/embed/3967028?border_width=0" width="206" height="165"><a href="https://chinuoguenweani.itch.io/pong">Pong by chinuoguenweani</a></iframe>  
+[![Play on Itch.io](https://static.itch.io/images/badge-color.svg)](https://chinuoguenweani.itch.io/pong)  
 
 
 A simple Pong clone made in **Godot 4**, as part of the **20 Games Challenge**.  
