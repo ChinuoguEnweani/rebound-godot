@@ -1,4 +1,4 @@
-# Pong — 20 Games Challenge  
+# Pong - 20 Games Challenge  
 
 🕹️ Play now ⬇️   
 
