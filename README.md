@@ -1,6 +1,7 @@
 # Pong — 20 Games Challenge #1
 
-🕹️ Play now  
+🕹️ Play now ⬇️   
+
 
 <a href="https://chinuoguenweani.itch.io/pong" target="_blank">
   <img src="https://static.itch.io/images/badge-color.svg" alt="Play on Itch.io" width="110"/>
