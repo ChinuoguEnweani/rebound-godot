@@ -4,7 +4,7 @@
 
 
 <a href="https://chinuoguenweani.itch.io/pong" target="_blank">
-  <img src="https://static.itch.io/images/badge-color.svg" alt="Play on Itch.io" width="110"/>
+  <img src="https://static.itch.io/images/badge-color.svg" alt="Play on Itch.io" width="125"/>
 </a>  
 
 
