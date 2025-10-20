@@ -49,14 +49,14 @@ func _physics_process(delta: float) -> void:
 			velocity = new_direction.normalized() * speed
 			speed += speed_increase
 
-			# 🔊 Play paddle hit sound
+			# Play paddle hit sound
 			if paddle_hit_sound:
 				paddle_hit_sound.play()
 		
 		elif collider.name == "TopWall" or collider.name == "BottomWall":
 			velocity = velocity.bounce(collision.get_normal())
 
-			# 🔊 Play wall bounce sound
+			# Play wall bounce sound
 			if wall_bounce_sound:
 				wall_bounce_sound.play()
 	
@@ -65,7 +65,7 @@ func _physics_process(delta: float) -> void:
 		right_scored.emit()
 		reset_ball()
 
-		# 🔊 Play score sound
+		# Play score sound
 		if score_sound:
 			score_sound.play()
 		
@@ -74,6 +74,6 @@ func _physics_process(delta: float) -> void:
 		left_scored.emit()
 		reset_ball()
 
-		# 🔊 Play score sound
+		# Play score sound
 		if score_sound:
 			score_sound.play()
