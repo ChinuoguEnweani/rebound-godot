@@ -98,7 +98,7 @@ func update_score_display():
 	right_score_label.text = str(right_score)
 
 func check_game_over():
-	# Game ends when someone reaches 5 points (adjust as needed)
+	# Game ends when someone reaches 5 points
 	if left_score >= 5:
 		show_game_over("Left Player Wins!")
 	elif right_score >= 5:
@@ -138,7 +138,7 @@ func _style_dialog():
 	# Get the label that displays the dialog text
 	var label = confirm_dialog.get_label()
 	if label:
-		label.add_theme_font_size_override("font_size", 32)  # Adjust to match your text size
+		label.add_theme_font_size_override("font_size", 32)
 		label.add_theme_color_override("font_color", Color.WHITE)
 	
 	# Style the buttons
@@ -147,15 +147,15 @@ func _style_dialog():
 	
 	for button in [ok_button, cancel_button]:
 		if button:
-			button.add_theme_font_size_override("font_size", 32)  # Adjust to match button text
+			button.add_theme_font_size_override("font_size", 32)
 			button.add_theme_color_override("font_color", Color.WHITE)
-			button.custom_minimum_size = Vector2(120, 50)  # Adjust button size
+			button.custom_minimum_size = Vector2(120, 50)
 	
 	# Style the dialog background
 	var panel = confirm_dialog.get_child(0)  # Get the panel
 	if panel is Panel:
 		var stylebox = StyleBoxFlat.new()
-		stylebox.bg_color = Color(0.2, 0.2, 0.2, 0.95)  # Dark gray similar to your buttons
+		stylebox.bg_color = Color(0.2, 0.2, 0.2, 0.95)
 		stylebox.border_width_left = 2
 		stylebox.border_width_right = 2
 		stylebox.border_width_top = 2
