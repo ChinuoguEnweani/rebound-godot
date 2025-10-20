@@ -3,7 +3,7 @@
 🕹️ Play now ⬇️   
 
 
-<a href="https://chinuoguenweani.itch.io/pong" target="_blank">
+<a href="https://chinuoguenweani.itch.io/rebound" target="_blank">
   <img src="https://static.itch.io/images/badge-color.svg" alt="Play on Itch.io" width="125"/>
 </a>  
 
@@ -63,10 +63,10 @@ These are the sound effects used in the game:
 
 | Sound | File | Description |
 |-------|------|------------|
-| Wall Bounce Sound | [`108737__branrainey__boing.wav`](pong/audio/108737__branrainey__boing.wav) | Wall bounce/collision sound |
-| Paddle Hit Sound | [`269718__michorvath__ping-pong-ball-hit.wav`](pong/audio/269718__michorvath__ping-pong-ball-hit.wav) | Played when the ball hits a paddle |
-| Score Sound | [`514160__edwardszakal__score-beep.mp3`](pong/audio/514160__edwardszakal__score-beep.mp3) | Played when a player scores |
-| Background music | [`Jesús Lastra - Heatstroke.mp3`](pong/audio/Jesús Lastra - Heatstroke.mp3)  | This music is played in the background |
+| Wall Bounce Sound | [`108737__branrainey__boing.wav`](rebound/audio/108737__branrainey__boing.wav) | Wall bounce/collision sound |
+| Paddle Hit Sound | [`269718__michorvath__ping-pong-ball-hit.wav`](rebound/audio/269718__michorvath__ping-pong-ball-hit.wav) | Played when the ball hits a paddle |
+| Score Sound | [`514160__edwardszakal__score-beep.mp3`](rebound/audio/514160__edwardszakal__score-beep.mp3) | Played when a player scores |
+| Background music | [`Jesús Lastra - Heatstroke.mp3`](rebound/audio/Jesús Lastra - Heatstroke.mp3)  | This music is played in the background |
 
 ## 🎮 Author & License
 
